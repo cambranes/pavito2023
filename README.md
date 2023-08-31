@@ -3,10 +3,12 @@
 
 ## codigo
 
+```c
     main(){
     }
+```
 
-    ```javascript
+```javascript
 // An highlighted block
 var foo = 'bar';
 ```
